@@ -3,7 +3,7 @@
 #define GLM_ENABLE_EXPERIMENTAL
 
 #include <fstream>
-#include <glm/gtx/normal.hpp>
+#include <gtx/normal.hpp>
 #include <cstring>
 
 void SaveBinarySTL(
