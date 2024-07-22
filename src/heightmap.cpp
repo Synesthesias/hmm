@@ -1,8 +1,8 @@
 #include "heightmap.h"
 
 #define GLM_ENABLE_EXPERIMENTAL
-#include <glm/gtx/normal.hpp>
-#include <glm/gtx/polar_coordinates.hpp>
+#include <gtx/normal.hpp>
+#include <gtx/polar_coordinates.hpp>
 
 #include "blur.h"
 

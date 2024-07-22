@@ -1,7 +1,7 @@
 #pragma once
 
 #define GLM_FORCE_SWIZZLE
-#include <glm/glm.hpp>
+#include <glm.hpp>
 #include <string>
 #include <utility>
 #include <vector>

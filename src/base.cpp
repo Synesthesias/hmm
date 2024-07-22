@@ -2,7 +2,7 @@
 
 #define GLM_ENABLE_EXPERIMENTAL
 
-#include <glm/gtx/hash.hpp>
+#include <gtx/hash.hpp>
 #include <map>
 #include <unordered_map>
 
